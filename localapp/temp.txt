@@ -1,0 +1,218 @@
+http://ct.mob0.com/Fonts/CharacterMap/ocraextended.png
+ABCDEFGHIJKLM
+NOPARSTUVWXYZ
+abcdefghijklm
+nopqrstuvwxyz
+IR L] g
+'d#sZAX()
+http://files.microscan.com/Technology/OCR/ocr_font_examples.jpg
+OCRA OCRB
+1234ABCD 1234ABCD
+Alphanumeric Alphanumeric.
+(+4 currency char)  (+4 currency char)
+MICR E-138 SEMI M12
+23k 1234ABCD
+Numeric Alphanumeric
+
+(+4 special char) (+4 currency char)
+http://www.columbiamt.com/CMT-Marking-Stamps/images/OCR-A-Font.gif
+ABCDEFGHT JIKLHN
+GPARSTUVUHXYZab
+cdefghijklmanop
+gretuvexyzlhdid
+USL7BE 1085 %Aa%
+http://files.microscan.com/Technology/OCR/ocr_font_examples.jpg
+OCRA OCRB
+1234ABCD 1234ABCD
+Alphanumeric Alphanumeric.
+(+4 currency char)  (+4 currency char)
+MICR E-138 SEMI M12
+23k 1234ABCD
+Numeric Alphanumeric
+
+(+4 special char) (+4 currency char)
+http://www.selectric.org/selectric/fonts/ansi-ocr.gif
+ABCDEFGHIJKLMNOPQRARSTUVWXYZ
+abcdefghljklmnopgrstuvwxyz
+Yrds”Z | ax{}—+0:"..7
+1234567890-=03"../
+http://luc.devroye.org/OCR-A-Comparison-2009.jpg
+%’;"m SR DEEEETREE
+
+Compare OCR-A fonts
+
+Sesvean fonromy — s~ from 52675 LB
+
+Compare O0CR-A fonts
+
+%’f’: ok oy LA e e 3050 DEEEEEEEDE
+Compare OCR-A font
+G oty — 8 s — rom 3.0 D
+
+Compare OCR-A fonts
+%«m R SR s OEEEEEEEDEE
+Compare OCR-A fonts
+%m o RS OEEEEEEEDEE
+Compare OCR-A fonts
+ety 1 s — am 2.0 DR
+
+Compare OCR-A fonts
+Compare OCR-A font
+Compare OCR-A font
+Compare OCR-A fonts
+http://www.selectric.org/selectric/fonts/ansi-ocr.gif
+ABCDEFGHIJKLMNOPQRARSTUVWXYZ
+abcdefghljklmnopgrstuvwxyz
+Yrds”Z | ax{}—+0:"..7
+1234567890-=03"../
+http://ct.mob0.com/Fonts/CharacterMap/ocraextended-Character-Map.png
+1 2 3 |& |5 g s % |& € ]
+easd A RAnaRatAa Al
+EEEG E[F |G T O
+BOE A AGE AR AAC A A
+LG X Y |1z [ N1t | ”
+Bod e AN A ACARERA
+
+B CENCE C N I G
+oz At AR ARa R AnEN
+
+0 5 PR A B NG
+o[l [y o [P ol
+
+RN NG 0
+REHAESAACANRARaES
+o GG
+3 A A
+B EEO L) B
+O AN A ER R A
+RN P T % |7 B B B
+e O AR A
+G N §
+B R AR R s s as
+N EECE ARG g EPRL .
+EAACACHRCARN AN AAE
+
+R U A NG
+elfs P ofsfofofofols|-[-]-] |
+
+O PR FE P [
+IR e A na s
+http://www.identifont.com/samples/bitstream/OCRA.gif
+ABCDEFGHIJKLMNO
+PARSTUVWXYZRGUa
+bcdefghijklmnop
+grstuvwxyzs&l23y
+SIS R I F IR R )
+http://www.identifont.com/samples/bitstream/OCRA.gif
+ABCDEFGHIJKLMNO
+PARSTUVWXYZRGUa
+bcdefghijklmnop
+grstuvwxyzs&l23y
+SIS R I F IR R )
+http://ct.mob0.com/Fonts/CharacterMap/ocraextended-Character-Map.png
+1 2 3 |& |5 g s % |& € ]
+easd A RAnaRatAa Al
+EEEG E[F |G T O
+BOE A AGE AR AAC A A
+LG X Y |1z [ N1t | ”
+Bod e AN A ACARERA
+
+B CENCE C N I G
+oz At AR ARa R AnEN
+
+0 5 PR A B NG
+o[l [y o [P ol
+
+RN NG 0
+REHAESAACANRARaES
+o GG
+3 A A
+B EEO L) B
+O AN A ER R A
+RN P T % |7 B B B
+e O AR A
+G N §
+B R AR R s s as
+N EECE ARG g EPRL .
+EAACACHRCARN AN AAE
+
+R U A NG
+elfs P ofsfofofofols|-[-]-] |
+
+O PR FE P [
+IR e A na s
+http://luc.devroye.org/OCR-A-Comparison-2009.jpg
+%’;"m SR DEEEETREE
+
+Compare OCR-A fonts
+
+Sesvean fonromy — s~ from 52675 LB
+
+Compare O0CR-A fonts
+
+%’f’: ok oy LA e e 3050 DEEEEEEEDE
+Compare OCR-A font
+G oty — 8 s — rom 3.0 D
+
+Compare OCR-A fonts
+%«m R SR s OEEEEEEEDEE
+Compare OCR-A fonts
+%m o RS OEEEEEEEDEE
+Compare OCR-A fonts
+ety 1 s — am 2.0 DR
+
+Compare OCR-A fonts
+Compare OCR-A font
+Compare OCR-A font
+Compare OCR-A fonts
+http://www.columbiamt.com/CMT-Marking-Stamps/images/OCR-A-Font.gif
+ABCDEFGHT JIKLHN
+GPARSTUVUHXYZab
+cdefghijklmanop
+gretuvexyzlhdid
+USL7BE 1085 %Aa%
+http://luc.devroye.org/OCR-A-Comparison-2009.jpg
+%’;"m SR DEEEETREE
+
+Compare OCR-A fonts
+
+Sesvean fonromy — s~ from 52675 LB
+
+Compare O0CR-A fonts
+
+%’f’: ok oy LA e e 3050 DEEEEEEEDE
+Compare OCR-A font
+G oty — 8 s — rom 3.0 D
+
+Compare OCR-A fonts
+%«m R SR s OEEEEEEEDEE
+Compare OCR-A fonts
+%m o RS OEEEEEEEDEE
+Compare OCR-A fonts
+ety 1 s — am 2.0 DR
+
+Compare OCR-A fonts
+Compare OCR-A font
+Compare OCR-A font
+Compare OCR-A fonts
+http://www.identifont.com/samples/bitstream/OCRA.gif
+ABCDEFGHIJKLMNO
+PARSTUVWXYZRGUa
+bcdefghijklmnop
+grstuvwxyzs&l23y
+SIS R I F IR R )
+http://files.microscan.com/Technology/OCR/ocr_font_examples.jpg
+OCRA OCRB
+1234ABCD 1234ABCD
+Alphanumeric Alphanumeric.
+(+4 currency char)  (+4 currency char)
+MICR E-138 SEMI M12
+23k 1234ABCD
+Numeric Alphanumeric
+
+(+4 special char) (+4 currency char)
+http://www.selectric.org/selectric/fonts/ansi-ocr.gif
+ABCDEFGHIJKLMNOPQRARSTUVWXYZ
+abcdefghljklmnopgrstuvwxyz
+Yrds”Z | ax{}—+0:"..7
+1234567890-=03"../

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="localapp:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccf2020d-983b-4d2e-a861-1220d7ec88af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l48lA7JHIMcg8L52KKJf6lGWu4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.23654568" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.local_app2">
+    <configuration name="local_app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="arn" value="arn:aws:iam::192475766322:instance-profile/Ass1" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="local_app" />
+      <module name="localapp" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;./input.txt&quot; &quot;localapp1&quot; &quot;1&quot; &quot;terminate&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="local_app1" type="Application" factoryName="Application">
+      <envs>
+        <env name="arn" value="arn:aws:iam::192475766322:instance-profile/Ass1" />
+        <env name="client_id" value="localapp1" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="local_app" />
+      <module name="localapp" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;./input.txt&quot; &quot;1&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="local_app2" type="Application" factoryName="Application">
+      <envs>
+        <env name="arn" value="arn:aws:iam::192475766322:instance-profile/Ass1" />
+        <env name="client_id" value="localapp2" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="local_app" />
+      <module name="localapp" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;./input.txt&quot; &quot;3&quot; &quot;Terminate&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.local_app1" />
+      <item itemvalue="Application.local_app2" />
+      <item itemvalue="Application.local_app" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.local_app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccf2020d-983b-4d2e-a861-1220d7ec88af" name="Default Changelist" comment="" />
+      <created>1606845151573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606845151573</updated>
+      <workItem from="1606845152997" duration="2534000" />
+      <workItem from="1607010947385" duration="9294000" />
+      <workItem from="1607435359052" duration="133000" />
+      <workItem from="1607437691644" duration="1415000" />
+      <workItem from="1607504366061" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1864" y="-50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607439035268">
+      <screen x="1440" y="-237" width="1920" height="1002" />
+    </state>
+    <state x="1864" y="-58" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.-260.1920.1080@1440.-260.1920.1080" timestamp="1607269553844" />
+    <state x="318" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.-237.1920.1002@0.23.1440.877" timestamp="1607435396169" />
+    <state x="1864" y="-50" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.-237.1920.1002@1440.-237.1920.1002" timestamp="1607439035268" />
+    <state x="1864" y="-58" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.-260.1920.1025@1440.-260.1920.1025" timestamp="1607017989332" />
+    <state x="524" y="290" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1607435470573">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="2138" y="69" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900/1440.-260.1920.1080@1440.-260.1920.1080" timestamp="1607266935169" />
+    <state x="524" y="290" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.877/1440.-237.1920.1002@0.23.1440.877" timestamp="1607435470573" />
+    <state x="2154" y="52" key="EnvironmentVariablesDialog" timestamp="1607267116204">
+      <screen x="1440" y="-260" width="1920" height="1080" />
+    </state>
+    <state x="2154" y="52" key="EnvironmentVariablesDialog/0.0.1440.900/1440.-260.1920.1080@1440.-260.1920.1080" timestamp="1607267116204" />
+    <state width="1878" height="384" key="GridCell.Tab.0.bottom" timestamp="1607440581485">
+      <screen x="1440" y="-237" width="1920" height="1002" />
+    </state>
+    <state width="1878" height="534" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-260.1920.1080@1440.-260.1920.1080" timestamp="1607269755789" />
+    <state width="1878" height="384" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-237.1920.1002@1440.-237.1920.1002" timestamp="1607440581485" />
+    <state width="1878" height="77" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-260.1920.1080@1440.-260.1920.1080" timestamp="1607354167861" />
+    <state width="1878" height="384" key="GridCell.Tab.0.center" timestamp="1607440581485">
+      <screen x="1440" y="-237" width="1920" height="1002" />
+    </state>
+    <state width="1878" height="534" key="GridCell.Tab.0.center/0.0.1440.900/1440.-260.1920.1080@1440.-260.1920.1080" timestamp="1607269755787" />
+    <state width="1878" height="384" key="GridCell.Tab.0.center/0.23.1440.877/1440.-237.1920.1002@1440.-237.1920.1002" timestamp="1607440581485" />
+    <state width="1878" height="77" key="GridCell.Tab.0.center/0.23.1440.877/1440.-260.1920.1080@1440.-260.1920.1080" timestamp="1607354167859" />
+    <state width="1878" height="384" key="GridCell.Tab.0.left" timestamp="1607440581484">
+      <screen x="1440" y="-237" width="1920" height="1002" />
+    </state>
+    <state width="1878" height="534" key="GridCell.Tab.0.left/0.0.1440.900/1440.-260.1920.1080@1440.-260.1920.1080" timestamp="1607269755786" />
+    <state width="1878" height="384" key="GridCell.Tab.0.left/0.23.1440.877/1440.-237.1920.1002@1440.-237.1920.1002" timestamp="1607440581484" />
+    <state width="1878" height="77" key="GridCell.Tab.0.left/0.23.1440.877/1440.-260.1920.1080@1440.-260.1920.1080" timestamp="1607354167858" />
+    <state width="1878" height="384" key="GridCell.Tab.0.right" timestamp="1607440581485">
+      <screen x="1440" y="-237" width="1920" height="1002" />
+    </state>
+    <state width="1878" height="534" key="GridCell.Tab.0.right/0.0.1440.900/1440.-260.1920.1080@1440.-260.1920.1080" timestamp="1607269755788" />
+    <state width="1878" height="384" key="GridCell.Tab.0.right/0.23.1440.877/1440.-237.1920.1002@1440.-237.1920.1002" timestamp="1607440581485" />
+    <state width="1878" height="77" key="GridCell.Tab.0.right/0.23.1440.877/1440.-260.1920.1080@1440.-260.1920.1080" timestamp="1607354167860" />
+    <state x="49" y="23" key="SettingsEditor" timestamp="1607435478266">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="1817" y="-17" key="SettingsEditor/0.0.1440.900/1440.-260.1920.1080@1440.-260.1920.1080" timestamp="1607335672897" />
+    <state x="49" y="23" key="SettingsEditor/0.23.1440.877/1440.-237.1920.1002@0.23.1440.877" timestamp="1607435478266" />
+    <state x="2079" y="96" key="com.intellij.ide.util.TipDialog" timestamp="1607504378788">
+      <screen x="1440" y="-237" width="1920" height="1002" />
+    </state>
+    <state x="2079" y="96" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.-237.1920.1002@1440.-237.1920.1002" timestamp="1607504378788" />
+  </component>
+</project>
